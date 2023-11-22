@@ -1,0 +1,15 @@
+nesne 1 
+yönelimli 1 
+programlama 1 
+bu 2 3 5 
+sinav 2 2 4 
+bir 2 3 4 
+ara 2 
+soru 3 3 5 
+guzel 3 
+suresi 4 
+saat 4 
+otuz 4 
+dakika 4 
+dikkatli 5 
+cozulmeli 5 
